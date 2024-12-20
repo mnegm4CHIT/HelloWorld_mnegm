@@ -7,7 +7,7 @@ public class HelloWorldServiceImpl extends HelloWorldServiceGrpc.HelloWorldServi
                 "Handling hello endpoint: " + request.toString());
 
 
-        String text = request.getText() + " World";
+        String text = "Hello World, "+request.getFirstname()+" "+ request.getLastname() ;
         Hello.HelloResponse response =
                 Hello.HelloResponse.newBuilder()
                         .setText(text).build();
