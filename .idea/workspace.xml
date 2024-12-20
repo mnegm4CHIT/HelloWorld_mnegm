@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0be197-6044-4b26-9e86-8be915589420" name="Changes" comment="HelloWorldServiceImpl erstellt und Code eingefügt">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelloWorldServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae0be197-6044-4b26-9e86-8be915589420" name="Changes" comment="HelloWorldSerer erstellt und Code eingefügt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734707896434</updated>
-      <workItem from="1734707897585" duration="1206000" />
+      <workItem from="1734707897585" duration="1566000" />
     </task>
     <task id="LOCAL-00001" summary="Klasse und proto generiert">
       <option name="closed" value="true" />
@@ -91,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734708890322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HelloWorldSerer erstellt und Code eingefügt">
+      <option name="closed" value="true" />
+      <created>1734709189801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734709189801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
     <MESSAGE value="Klasse und proto generiert" />
     <MESSAGE value="build gradle code geschrieben" />
     <MESSAGE value="HelloWorldServiceImpl erstellt und Code eingefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="HelloWorldServiceImpl erstellt und Code eingefügt" />
+    <MESSAGE value="HelloWorldSerer erstellt und Code eingefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloWorldSerer erstellt und Code eingefügt" />
   </component>
 </project>
