@@ -25,6 +25,7 @@ public class HelloWorldServer {
     public static void main(String[] args)
             throws InterruptedException, IOException {
         HelloWorldServer server = new HelloWorldServer();
+        System.out.println( "HelloWorld Service is running!");
         server.start();
         server.blockUntilShutdown();
     }
