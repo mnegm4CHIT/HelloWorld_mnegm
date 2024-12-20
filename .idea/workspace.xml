@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0be197-6044-4b26-9e86-8be915589420" name="Changes" comment="Klasse und proto generiert">
+    <list default="true" id="ae0be197-6044-4b26-9e86-8be915589420" name="Changes" comment="build gradle code geschrieben">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelloWorldServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +43,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -55,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734707896434</updated>
-      <workItem from="1734707897585" duration="119000" />
+      <workItem from="1734707897585" duration="895000" />
     </task>
     <task id="LOCAL-00001" summary="Klasse und proto generiert">
       <option name="closed" value="true" />
@@ -65,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734707958951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="build gradle code geschrieben">
+      <option name="closed" value="true" />
+      <created>1734708141188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734708141188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Klasse und proto generiert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klasse und proto generiert" />
+    <MESSAGE value="build gradle code geschrieben" />
+    <option name="LAST_COMMIT_MESSAGE" value="build gradle code geschrieben" />
   </component>
 </project>
